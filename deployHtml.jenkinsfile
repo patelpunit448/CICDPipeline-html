@@ -3,7 +3,7 @@ pipeline {
     
     environment {
         GIT_REPO = "https://github.com/UnpredictablePrashant/CICDPipeline-html.git"
-        SSH_CRED_ID = "punit-test-ssh"
+        SSH_CRED_ID = "prashan-dey"
         EC2_USER = "ubuntu"
         EC_HOST = "3.110.142.165"
     }
